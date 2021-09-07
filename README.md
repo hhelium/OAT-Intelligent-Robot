@@ -34,7 +34,7 @@ The environment primarily depends on the following set of libraries:
 - PyBullet
 - Scipy
 - Matplotlib
-- Panda
+- Pandas
 
 
 ## References
