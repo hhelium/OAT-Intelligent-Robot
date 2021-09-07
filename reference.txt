@@ -1,0 +1,32 @@
+PythonRobotics: SLAM
+https://github.com/AtsushiSakai/PythonRobotics
+
+pytransform: Coordinate transformation
+https://alexanderfabisch.github.io/pytransform.html
+
+
+pybotics: manipulation kinematics dynamics
+https://github.com/nnadeau/pybotics/blob/master/examples/kinematics.ipynb
+
+
+ModernRobotics: theory
+https://github.com/NxRLab/ModernRobotics/blob/master/packages/Python/modern_robotics/core.py
+
+Jupyter notebook course:
+https://github.com/jotaraul/jupyter-notebooks-for-robotics-courses/blob/master/LICENSE
+
+
+
+Wiki: A*
+https://en.wikipedia.org/wiki/A*_search_algorithm
+
+
+To python libraries for robotics:
+https://analyticsindiamag.com/top-10-python-libraries-for-robotics/
+
+sample notebook:
+http://motion.cs.illinois.edu/RoboticSystems/CoordinateTransformations.html
+
+
+
+
